@@ -1,3 +1,3 @@
 # CAS-PROJECT
-project for CAS
+project for CAS; Make a website
 Benjamin, Kevin, and Andrew 
